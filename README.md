@@ -1,5 +1,5 @@
 # queuing_system
-Coursework, the purpose of which was to model a queuing system.
+### Coursework, the purpose of which was to model a queuing system.
 
 ## My task condition:
 ### -- generation of new applications: by Poisson distribution;
